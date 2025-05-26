@@ -5,15 +5,16 @@ This is my personal profile website built with HTML and CSS. It includes my biog
 ## 💻 Features
 
 - Clean, responsive design
-- About Me section
-- Skills section
-- Contact details
+- my projects
+- home page
+  
 
 ## 🛠 Technologies Used
 
 - HTML5
 - CSS3
-- Optional: JavaScript (might add it later)
+- JavaScript
+  
 
 ## 📂 Getting Started
 
